@@ -1,0 +1,13 @@
+h1, h2 {
+  font-family: Lato;
+}
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input, button{
+  padding: 10px;
+  margin: 10px 0;
+}
+#isOutput {
+  margin: 10px;
+}
